@@ -1,0 +1,3 @@
+# COVID-19_TRACKER_HTML_CSS_JAVASCRIPT
+Made by Pranav Kumar Singh
+COVID-19 TRACKER with HTML5, CSS3 and JavaScript
